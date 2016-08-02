@@ -83,3 +83,6 @@ bilal@goku ~#
 
 i 2016/08/01 10:46:00 gokustan
 o 2016/08/01 23:59:00 done
+
+#Pull request
+hehehehehe now i know why you made me read about pull request
